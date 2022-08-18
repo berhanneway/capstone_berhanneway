@@ -2,17 +2,16 @@
 # Metro Nashville Police Department Incident 
 # Introduction
 
-Nashville is one of the fastest growing cities in America. people are moving into Middle Tennessee City at higher rate. Companies, housing and other development are growing very fast.  Study shows in fast growing cities, police incidents rate is also increase. Therefore, studying and analyzing the police incident database, greatly contribute for effective utilization of police department resources and reduce incidents in the city.  
-The primary goal of this Capstone Project is to contribute an input that help to reduce crime incident in in Nashville Metropolitan Area.  
+Nashville is one of the fastest growing cities in America as people continue moving into Middle Tennessee City at high rate. Companies, housing, and other developments are growing very fast.  Studies shows in fast growing cities, police incident rates also increase. Therefore, studying and analyzing the police incident database, greatly contributes to effective utilization of police department resources and reduced incidents in the city.  
+The primary goal of this Capstone Project is to contribute a resource that helps to reduce crime incidents in in Nashville Metropolitan Area. 
 # Objective
-Analyzing Metro Nashville Police Incident Dataset from the year 2015 to 2022
-  and find out:
-  1.  The most frequent occurring types of incidents.
-  2.  Incident distribution by city, zip code and specific location (bar, residential …) 
-  3.  Rate of incident increase per year.
-  4.  Distribution within days of the week and time (Hr.)
-  5.  Top ten types of weapons used gender and number victims. 
-  6.  Summarize and draw conclusion
+Analysis of Metro Nashville Police Incident Dataset from 2015 to 2022 to find out:
+•	The most frequently occurring types of incidents.
+•	Incident distribution by city, zip code and specific location (bar, residential) 
+•	Rate of incident increase per year.
+•	Distribution of incidents within days of the week and time of day.
+•	Top ten types of weapons used.
+•	Gender and number victims. 
 # Data Source
  Metro Nashville Police Department Incidents Dataset is the main data source.
   - It has 913,000 rows and 34 columns.
@@ -38,5 +37,8 @@ Analyzing Metro Nashville Police Incident Dataset from the year 2015 to 2022
   
 Charts, tables and maps prepared.  
 # Limitation
-Group A category offense considered in this project. Group A offenses are used to report all incidents committed within a law enforcement agency’s jurisdiction to the NIBRS
+Only group A category offenses were considered in this project. 
+
+Group A offenses are used to report all incidents committed within a law enforcement agency’s jurisdiction to the NIBRS
+
 
