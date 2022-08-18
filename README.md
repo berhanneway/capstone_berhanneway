@@ -25,7 +25,7 @@ Analyzing Metro Nashville Police Incident Dataset from the year 2015 to 2022
   - Remove duplicated rows.
   - Dataset organized and Prepared for the purpose of the project. 
 2.  Dashboard in Tableau:
-Data categorized  based on National Incident-Based Reporting System (NIBRS) in to 8 incident groups.
+  Data categorized  based on National Incident-Based Reporting System (NIBRS) in to 8 incident groups.
   1.	Offenses                       
   2.	Burglary/Breaking & Entering   	
   3.	Robbery   					           
