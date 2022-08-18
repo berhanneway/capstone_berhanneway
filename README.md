@@ -20,11 +20,11 @@ Analyzing Metro Nashville Police Incident Dataset from the year 2015 to 2022
   - 151 duplicated rows.
   - Incidents are partially categorized.
 # Tools used 
-Jupyter Notebook used to:
+1.  Jupyter Notebook used to:
   - Recover missing  Zip codes, Coordinates and cities. 
   - Remove duplicated rows.
   - Dataset organized and Prepared for the purpose of the project. 
-Dashboard in Tableau:
+2.  Dashboard in Tableau:
 Data categorized  based on National Incident-Based Reporting System (NIBRS) in to 8 incident groups.
   1.	Offenses                       
   2.	Burglary/Breaking & Entering   	
