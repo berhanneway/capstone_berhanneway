@@ -24,7 +24,7 @@ Jupyter Notebook used to:
   - Recover missing  Zip codes, Coordinates and cities. 
   - Remove duplicated rows.
   - Dataset organized and Prepared for the purpose of the project. 
-Dashboard in Tableau
+Dashboard in Tableau:
 Data categorized  based on National Incident-Based Reporting System (NIBRS) in to 8 incident groups.
   1.	Offenses                       
   2.	Burglary/Breaking & Entering   	
