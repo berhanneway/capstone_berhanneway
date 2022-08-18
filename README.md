@@ -27,10 +27,14 @@ Jupyter Notebook used to:
 Dashboard in Tableau
 
 Data categorized  based on National Incident-Based Reporting System (NIBRS) in to 8 incident groups.
-  1.	 Offenses                       5. Motor Vehicle Theft
-  2.	Burglary/Breaking & Entering   	6. Assault Offenses
-  3.	Robbery   					            7. Sex Offenses, Forcible
-  4.	Larceny/Theft Offenses          8. Kidnapping/Abduction
+  1.	Offenses                       
+  2.	Burglary/Breaking & Entering   	
+  3.	Robbery   					           
+  4.	Larceny/Theft Offenses  
+  5.	Motor Vehicle Theft
+  6.	Assault Offenses    
+  7.	Sex Offenses, Forcible
+  8.  Kidnapping/Abduction
 Charts, tables and maps prepared.  
 # Limitation
 Group A category offense considered in this project. Group A offenses are used to report all incidents committed within a law enforcement agency’s jurisdiction to the NIBRS
