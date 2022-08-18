@@ -7,25 +7,24 @@ The primary goal of this Capstone Project is to contribute an input that help to
 # Objective
 Analyzing Metro Nashville Police Incident Dataset from the year 2015 to 2022
   and find out:
-•	The most frequent occurring types of incidents.
-•	Incident distribution by city, zip code and specific location (bar, residential …) 
-•	Rate of incident increase per year.
-•	Distribution within days of the week and time (Hr.).
-•	Top ten types of weapons used gender and number victims. 
-•	Summarize and draw conclusion
+  1.  The most frequent occurring types of incidents.
+  2.  Incident distribution by city, zip code and specific location (bar, residential …) 
+  3.  Rate of incident increase per year.
+  4.  Distribution within days of the week and time (Hr.)
+  5.  Top ten types of weapons used gender and number victims. 
+  6.  Summarize and draw conclusion
 # Data Source
-Metro Nashville Police Department Incidents Dataset is the main data source.
-  It has 913,000 rows and 34 columns
-    450, 000 missing zip codes, coordinates and cities
-    151 duplicated rows
-    Incidents are partially categorized
+ Metro Nashville Police Department Incidents Dataset is the main data source.
+  - It has 913,000 rows and 34 columns.
+  - 450, 000 missing zip codes, coordinates and cities.
+  - 151 duplicated rows.
+  - Incidents are partially categorized.
 # Tools used 
 Jupyter Notebook used to:
-   Recover missing  Zip codes, Coordinates and cities. 
-   Remove duplicated rows 
-   Dataset organized and Prepared for the purpose of the project. 
+  - Recover missing  Zip codes, Coordinates and cities. 
+  - Remove duplicated rows.
+  - Dataset organized and Prepared for the purpose of the project. 
 Dashboard in Tableau
-
 Data categorized  based on National Incident-Based Reporting System (NIBRS) in to 8 incident groups.
   1.	Offenses                       
   2.	Burglary/Breaking & Entering   	
